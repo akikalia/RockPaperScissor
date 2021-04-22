@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockPaperScissor</string>
+    <string name="start_message">Press any button to start</string>
+    <string name="player_one">Computer</string>
+    <string name="player_two">Player</string>
+    <string name="player_one_score">0</string>
+    <string name="player_two_score">0</string>
+    <string name="weapon_one">Rock</string>
+    <string name="weapon_two">Paper</string>
+    <string name="weapon_three">Scissor</string>
+</resources>
